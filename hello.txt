@@ -1,2 +1,4 @@
 Hello GitHub
 motegi1
+motegi2
+
