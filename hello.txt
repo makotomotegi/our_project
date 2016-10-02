@@ -8,4 +8,6 @@ motegi5
 motegi6
 
 motegi7x
+motegi7c
+
 
